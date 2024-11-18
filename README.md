@@ -7,4 +7,6 @@ Apı'lere istek gönderilir.
 200 döndüğü DeleteBooking apı'sinde 201 Created döndüğü görülür.
 Testleri koşmak için Run Collection seçimi yapılır.
 
+# Test Sonuçları
+
 ![image](https://github.com/user-attachments/assets/a08b6f17-edc5-4a18-8532-aed7ff179ab9)
